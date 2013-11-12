@@ -1,6 +1,6 @@
-# Parallels 7 Puppet Module for Boxen
+# Parallels 9 Puppet Module for Boxen
 
-Installs Parallels 7. This doesn't include the Parralels license
+Installs Parallels 9. This doesn't include the Parralels license
 
 ## Usage
 
