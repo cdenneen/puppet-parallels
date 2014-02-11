@@ -7,7 +7,7 @@
 #   include parallels
 class parallels {
   package { 'Parallels 9':
-    source   => 'http://download.parallels.com//desktop/v9/update1.hf1/ParallelsDesktop-9.0.23140.935944.dmg',
+    source   => 'http://download.parallels.com/restricted/download/desktop/v9/pde.hf1/ParallelsDesktop-9.0.24172.951362.dmg',
     provider => 'appdmg'
   }
 }
